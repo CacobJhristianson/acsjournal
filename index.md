@@ -6,8 +6,6 @@ A preliminary sitemap for my journal. Hoping to integrate a theme into this in t
 
 # Weekly Notes
 
-Week #2 [WIP]
-
 [Week #1](Week 1.md)
 
-[Week #2](Week 2.pdf)
+[Week #2](Week 2.md)
